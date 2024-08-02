@@ -1,7 +1,7 @@
 # ManufacturingPlant_networksystem
 
 ## Project Description
-This project provides a solution for connecting multiple devices in a manufacturing plant to read and write real-time data using TCP/IP communication. The solution supports simultaneous communication with multiple devices, allows for future additions of communication protocols, and includes stubs and unit tests for testing TCP/IP communication.
+This project provides a solution for connecting multiple devices in a manufacturing plant to read and write real-time data using TCP/IP communication. The solution supports simultaneous communication with multiple devices, allows for future additions of communication protocols, and includes stubs and unit tests for testing TCP/IP communication.For simple scenario , implemented on device known as device1 will communicate with multiple devices and device2 will just messages.
 
 ## Features
 - **TCP/IP Communication**: Supports communication using IP Address and Port Number for both reading and writing values.
